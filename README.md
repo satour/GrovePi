@@ -1,2 +1,2 @@
 # GrovePi
-Various Gove-sensors connect to GrovePi+ &amp; RasPi
+Various Grove-sensors connect to GrovePi+ &amp; RasPi
